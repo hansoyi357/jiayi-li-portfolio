@@ -1,0 +1,14 @@
+# Local previews and export packages
+desktop*.png
+hero-*.png
+mobile.png
+work-*.png
+poster-source*.png
+portfolio-site-v*.tar.gz
+site-package-v*/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
